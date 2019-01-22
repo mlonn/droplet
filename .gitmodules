@@ -1,0 +1,3 @@
+[submodule "lonn.xyz"]
+	path = lonn.xyz
+	url = git@github.com:mlonn/lonn.xyz.git
